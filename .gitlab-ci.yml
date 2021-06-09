@@ -4,8 +4,13 @@ variables:
   JEKYLL_ENV: production
   LC_ALL: C.UTF-8
 
+cache:
+  paths:
+    - _cache/
+
 before_script:
   - gem install bundler
+  - bundle config set path '_cache/'
   - bundle install
 
 test:
