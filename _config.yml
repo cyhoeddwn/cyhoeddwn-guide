@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Help for cyhoeddwn
+title: cyhoeddwn help
 email: genevieve@becquerel.me
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -34,6 +34,7 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
 
+# Image path settings
 defaults:
   scope:
     path: "assets/img"
@@ -42,9 +43,7 @@ defaults:
 
 logo: "logo.png"
 
-local_imp_base_url: "https://cyhoeddwn-test.becquerel.me"
-
-footer_content: 'cyhoeddwn, software for managing content for connected rural pervasive displays.<br>Made with ❤️ by <a href="https://dev.becquerel.me/">Genevieve Clifford</a>'
+footer_content: '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br>cyhoeddwn, software for managing content for connected rural pervasive displays.<br>Made with ❤️ by <a href="https://dev.becquerel.me/">Genevieve Clifford</a>'
 
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
