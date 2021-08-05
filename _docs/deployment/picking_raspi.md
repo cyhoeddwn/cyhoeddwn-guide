@@ -20,7 +20,7 @@ last_modified_date: 2021-07-03 16:38
 {:toc}
 </details>
 
-The Raspberry Pi is a single-board computer which has undergone several iterations in design since its initial release in early 2012. It is built around an ARM-based system-on-chip, the same kind of chip that you might find in your phone or tablet. Due to its small form factor design, respectable performance and being relatively inexpensive, it is perfect for use as a display driver. Depending on the model of Raspberry Pi you plan to use, each unit should cost (excluding the display) £X-Y.
+The Raspberry Pi is a single-board computer which has undergone several iterations in design since its initial release in early 2012. It is built around an ARM-based system-on-chip, the same kind of chip that you might find in your phone or tablet. Due to its small form factor design, respectable performance and being relatively inexpensive, it is perfect for use as a display driver. Depending on the model of Raspberry Pi you plan to use, each unit should cost (excluding the display) around £50.
 
 ## What you'll need
 
