@@ -5,7 +5,7 @@ on:
   push:
     branches:
       # deploy on updates on main
-      - main
+      - master
   schedule:
     # redeploy every morning to update unpublished pages
     - cron: "0 2 * * *"
