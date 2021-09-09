@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Introduction
-parent: Community Guidelines
+title: Community guidelines
 nav_order: 2
-has_children: false
+has_children: true
 ---
 
-# Introduction
+# Community guidelines
 
 ## Overview
 
