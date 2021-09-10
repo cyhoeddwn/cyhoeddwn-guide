@@ -3,7 +3,7 @@ layout: default
 title: About
 nav_order: 1
 has_children: false
-last_modified_date: 2021-06-09 20:42
+last_modified_date: 2021-09-10 14:47
 ---
 
 # cyhoeddwn explained
@@ -12,6 +12,7 @@ last_modified_date: 2021-06-09 20:42
 cyhoeddwn (kəhɔɨðʊn) is a web application used to manage content that can be displayed on connected nodes. A node is any device which can display content from the web in any modern web browser. cyhoeddwn is designed to be used in rural settings, but in practice could be used wherever required.
 
 ## What content can I display on cyhoeddwn?
+The [exact requirements]({% link _docs/getting_started/new_post.md %}) for 
 
 ## Why does cyhoeddwn exist?
 cyhoeddwn is kept in active development by [Genevieve Clifford](https://dev.becquerel.me). cyhoeddwn was created to fulfil part of the requirements of completing an MSc in Computer Science at Swansea University. This software and associated documentation forms part of the master's dissertation for this course (Designing Rural Pervasive Display Networks for Distributed and Democratic Governance) which was supervised by Stuart Nicholson.

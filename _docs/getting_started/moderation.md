@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Post Moderation
-parent: Getting Started
+parent: User guide
 nav_order: 7
 has_children: false
 last_modified_date: 2021-07-28 10:56

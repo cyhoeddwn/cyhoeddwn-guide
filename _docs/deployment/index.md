@@ -1,10 +1,4 @@
----
-layout: default
-title: Deploying cyhoeddwn
-nav_order: 1
-has_children: true
-last_modified_date: 2021-06-09 20:42
----
+<!-- This section is being moved to the cyhoeddwn wiki! -->
 
 # Deployment
 {: .no_toc }

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Editing a post
-parent: Getting Started
+parent: User guide
 nav_order: 6
 has_children: false
 last_modified_date: 2021-07-26 13:23

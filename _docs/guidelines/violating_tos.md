@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Disciplinary procedures
-parent: Community Guidelines
+parent: Community guidelines
 nav_order: 2
 has_children: false
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Creating a post
-parent: Getting Started
+parent: User guide
 nav_order: 5
 has_children: false
 last_modified_date: 2021-07-26 17:51

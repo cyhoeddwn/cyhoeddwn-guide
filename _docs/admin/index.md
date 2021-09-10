@@ -1,6 +1,1 @@
----
-layout: default
-title: Administration
-nav_order: 1
-has_children: true
----
+<!-- This section is being moved to the cyhoeddwn wiki! -->

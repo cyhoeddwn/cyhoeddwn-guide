@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Logging out
-parent: Getting Started
+parent: User guide
 nav_order: 3
 has_children: false
 last_modified_date: 2021-07-03 16:38

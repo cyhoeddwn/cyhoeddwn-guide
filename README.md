@@ -1,5 +1,11 @@
 # cyhoeddwn-guide
 
+## Deploying cyhoeddwn-guide
+
+Covered in [the wiki](https://gitlab.com/cyhoeddwn/cyhoeddwn-guide/-/wikis/home).
+
+## Local development
+
 This is a repository for hosting the content in the wiki for the [cyhoeddwn](https://gitlab.com/merchygoedwig/cyhoeddwn) project. This project uses the [Jekyll](https://jekyllrb.com/) static site generator. Users with an installation of Ruby can host the site locally by running the following from a terminal:
 
 ```bash
