@@ -44,7 +44,7 @@ TODO: Link to community guidelines
 - Must be in either `jpeg`, `jpg`, `gif`, or `png` format
 - Must be no larger than 5MB
 - Must be in landscape format
-- Must be no fewer than X pixels in either height or width
+- Must be no fewer than 500 pixels in height, and 1000 in width
 - Must follow the community guidelines
 
 From the homepage, compose a new post by using the Content/Image section of the page. When ready, click 'Post'!

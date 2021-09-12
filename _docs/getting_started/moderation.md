@@ -27,6 +27,8 @@ Each post contains zero, one, or many reviews. A review contains some free text 
 
 > The post is set to display if both of the following conditions are met: the post has at least three reviews and the post has a simple majority (> 50%) of positive reviews (compared to negative ones).
 
+You'll get an email notification when your post has been approved, so no need to keep refreshing your post's page!
+
 ## Creating a review
 
 To create a review on a post, you must be logged in as a user that is not the post's author. Start by clicking on the 'X review(s)' link under the post (where X is a number). This will bring up the post review view, click the 'Create review' button, and compose your review in the box provided. Tick the checkbox if you would like to mark your review as 'Approved', leave it unchecked if not.
