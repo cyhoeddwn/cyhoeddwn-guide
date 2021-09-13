@@ -16,9 +16,9 @@ I sense you may be lost, or in need of some help. Fear not! I'll point you in th
 |-------|----------|--------|
 |…new here|…find out more about cyhoeddwn|[About page]({% link _docs/about/index.md %})|
 |…new here|…test out cyhoeddwn|[Demo instance of cyhoeddwn](https://app.cyhoeddwn.wales)|
-|…a cyhoeddwn user|…go to the cyhoeddwn website|[Your local instance of cyhoeddwn](https://app.cyhoeddwn.wales)|
+|…a cyhoeddwn user|…go to the cyhoeddwn website|[Your local instance of cyhoeddwn](https://app.cyhoeddwn.wales)<br>`Insert URL here`|
 |…a cyhoeddwn user|…learn now to use the website|[Getting started]({% link _docs/getting_started/index.md %})|
+|…a cyhoeddwn user|…contribute to this guide|Your local deployment's GitHub Discussion<br>`Insert URL here`|
+|…a cyhoeddwn user|…suggest a new feature or report a bug|[GitLab issues for cyhoeddwn](https://gitlab.com/cyhoeddwn/cyhoeddwn/-/issues)|
 |…an administrator|…learn how to deploy cyhoeddwn|[The cyhoeddwn wiki](https://gitlab.com/cyhoeddwn/cyhoeddwn/-/wikis/home)|
 |…an administrator|…learn how to deploy cyhoeddwn-guide|[The cyhoeddwn-guide wiki](https://gitlab.com/cyhoeddwn/cyhoeddwn-guide/-/wikis/home)|
-
-<!-- This website is hosted using [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/), with pages generated using the [Jekyll](https://jekyllrb.com/) static site generator. Spotted an error in this documentation that you'd like to report? Let us know by [raising an issue](https://gitlab.com/cyhoeddwn/cyhoeddwn-guide/-/issues/new). For problems with cyhoeddwn itself, [raise an issue here](https://gitlab.com/cyhoeddwn/cyhoeddwn/-/issues/new). -->
