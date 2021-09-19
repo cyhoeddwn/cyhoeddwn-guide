@@ -27,7 +27,7 @@ _Replace the following with the contact details (name, email, address, phone num
 
 ## Contact details
 
-cyhoeddwn and cyhoeddwn-guide is software deployed by [Wigan Community Council] to residents of [Wigan]. This privacy policy explains how [Wigan Community Council] use the personal data collected from you when you interact with cyhoeddwn and cyhoeddwn-guide.
+cyhoeddwn and cyhoeddwn-guide is software deployed by [Wigan Community Council] to residents of [Wigan]. This privacy policy explains how [Wigan Community Council] use the personal data collected from you when you interact with cyhoeddwn and cyhoeddwn-guide. The words 'we', 'us' and 'our' refer to [Wigan Community Council] as an entity.
 
 [Wigan Community Council: c/o [Some Administrator](mailto:admin@somedomain.org), 62 West Wallaby Street, Wigan, Lancashire]
 
@@ -55,7 +55,7 @@ When you submit data to other sites, such as when submitting issues through GitL
 
 ## How will we store your data?
 
-We store textual data on a [insert name of provider] PostgreSQL database, media data is stored in an AWS S3 bucket. We will store your data until your account is deleted (which will cascade delete your information on the database and bucket), or Wigan County Council suspends the cyhoeddwn service, in which your account data will be wiped from both the database and bucket.
+We store textual data on a [insert name of provider] PostgreSQL database, media data is stored in an AWS S3 bucket. We will store your data until your account is deleted (which will delete all the information we store about you), or [Wigan County Council] suspends the cyhoeddwn service, which will also delete all your data in the same way.
 
 ## What are your data protection rights?
 
