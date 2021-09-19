@@ -1,0 +1,326 @@
+{"0": {
+    "doc": "About",
+    "title": "About",
+    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
+    "url": "/about/",
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Home",
+    "title": "cyhoeddwn",
+    "content": "Greetings traveller! Welcome to cyhoeddwn (kuh-HUY-thun), you can use this software to share content in rural communities (or communities of any kind) on connected pervasive displays. ",
+    "url": "/#cyhoeddwn",
+    "relUrl": "/#cyhoeddwn"
+  },"2": {
+    "doc": "Home",
+    "title": "The Yggdrasil",
+    "content": "I sense you may be lost, or in need of some help. Fear not! I’ll point you in the direction that you need, just follow this table! (Coming here often? Why not bookmark these links?) . | I am… | I want to… | Go here! | . | …new here | …find out more about cyhoeddwn | About page | . | …new here | …test out cyhoeddwn | Demo instance of cyhoeddwn | . | …a cyhoeddwn user | …go to the cyhoeddwn website | Your local instance of cyhoeddwnInsert URL here | . | …a cyhoeddwn user | …learn now to use the website | Getting started | . | …a cyhoeddwn user | …contribute to this guide | Your local deployment’s GitHub DiscussionInsert URL here | . | …a cyhoeddwn user | …suggest a new feature or report a bug | GitLab issues for cyhoeddwn | . | …an administrator | …learn how to deploy cyhoeddwn | The cyhoeddwn wiki | . | …an administrator | …learn how to deploy cyhoeddwn-guide | The cyhoeddwn-guide wiki | . ",
+    "url": "/#the-yggdrasil",
+    "relUrl": "/#the-yggdrasil"
+  },"3": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    "relUrl": "/"
+  },"4": {
+    "doc": "About",
+    "title": "cyhoeddwn explained",
+    "content": " ",
+    "url": "/docs/about/index/#cyhoeddwn-explained",
+    "relUrl": "/docs/about/index/#cyhoeddwn-explained"
+  },"5": {
+    "doc": "About",
+    "title": "What is cyhoeddwn?",
+    "content": "cyhoeddwn (kəhɔɨðʊn) is a web application used to manage content that can be displayed on connected nodes. A node is any device which can display content from the web in any modern web browser. cyhoeddwn is designed to be used in rural settings, but in practice could be used wherever required. ",
+    "url": "/docs/about/index/#what-is-cyhoeddwn",
+    "relUrl": "/docs/about/index/#what-is-cyhoeddwn"
+  },"6": {
+    "doc": "About",
+    "title": "How do I use cyhoeddwn?",
+    "content": "You (as a community) post content to your local instance of cyhoeddwn. Your fellow community members will approve (or reject) your post based on community guidelines and standards. Your content will appear on both the content management system (the web app) and on displays around your community. You can also host a display, should you want, in your business or place where community members will gather. You can also contribute to writing community guidelines and standards, and suggest new features for the system. ",
+    "url": "/docs/about/index/#how-do-i-use-cyhoeddwn",
+    "relUrl": "/docs/about/index/#how-do-i-use-cyhoeddwn"
+  },"7": {
+    "doc": "About",
+    "title": "What content can I display on cyhoeddwn?",
+    "content": "The exact requirements for posts are long and may change, but a succinct summary is: text or text and an image. ",
+    "url": "/docs/about/index/#what-content-can-i-display-on-cyhoeddwn",
+    "relUrl": "/docs/about/index/#what-content-can-i-display-on-cyhoeddwn"
+  },"8": {
+    "doc": "About",
+    "title": "Why does cyhoeddwn exist?",
+    "content": "cyhoeddwn is kept in active development by Genevieve Clifford. cyhoeddwn was created to fulfil part of the requirements of completing an MSc in Computer Science at Swansea University. This software and associated documentation forms part of the master’s dissertation for this course (Designing Rural Pervasive Display Networks for Distributed and Democratic Governance) which was supervised by Stuart Nicholson. This project builds on the previous study undertaken both by Taylor et al. and Nicholson et al., Taylor et al. bring the champion model to their networked display, Nicholson et al. seek to build further community engagement which ultimately became the champion model with time. In cyhoeddwn, it is hoped to reduce administrative burden of running the system, and to build a community-owned and community-built resource. ",
+    "url": "/docs/about/index/#why-does-cyhoeddwn-exist",
+    "relUrl": "/docs/about/index/#why-does-cyhoeddwn-exist"
+  },"9": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "/docs/about/index/",
+    "relUrl": "/docs/about/index/"
+  },"10": {
+    "doc": "Display mode",
+    "title": "Display mode",
+    "content": ". | Overview | Prerequisites | Step-by-step | . ",
+    "url": "/docs/getting_started/display/",
+    "relUrl": "/docs/getting_started/display/"
+  },"11": {
+    "doc": "Display mode",
+    "title": "Overview",
+    "content": "The core of cyhoeddwn is the ability to display content on connected displays. To this end, the cyhoeddwn web app has a ‘display mode’. This will cycle through posts on a connected display. ",
+    "url": "/docs/getting_started/display/#overview",
+    "relUrl": "/docs/getting_started/display/#overview"
+  },"12": {
+    "doc": "Display mode",
+    "title": "Prerequisites",
+    "content": "You will need to: . | Have a cyhoeddwn account | Follow accounts that make content that you’d like to display | Have a display set up | Be signed in to your cyhoeddwn account on the device | . ",
+    "url": "/docs/getting_started/display/#prerequisites",
+    "relUrl": "/docs/getting_started/display/#prerequisites"
+  },"13": {
+    "doc": "Display mode",
+    "title": "Step-by-step",
+    "content": "From any page on cyhoeddwn, click on the dropdown menu at the top right of the screen, click on ‘Display mode’. The site that loads will cycle through approved posts from users you follow in a random order. Each post will be displayed for 10 seconds. ",
+    "url": "/docs/getting_started/display/#step-by-step",
+    "relUrl": "/docs/getting_started/display/#step-by-step"
+  },"14": {
+    "doc": "Editing a post",
+    "title": "Editing a post",
+    "content": ". | Change post content | Deleting a post | . ",
+    "url": "/docs/getting_started/edit_post/",
+    "relUrl": "/docs/getting_started/edit_post/"
+  },"15": {
+    "doc": "Editing a post",
+    "title": "Change post content",
+    "content": "You are able to edit your posts after you have created them. This comes with a small caveat though, all of the reviews that are left on your post will disappear and your post will no longer be approved for display (assuming it already was). Find the post you’d like to edit and click the ‘Edit post.’ link underneath it, you are only able to edit your own posts. On the edit post page, you are able to rewrite text and change the image attached to your post. . ",
+    "url": "/docs/getting_started/edit_post/#change-post-content",
+    "relUrl": "/docs/getting_started/edit_post/#change-post-content"
+  },"16": {
+    "doc": "Editing a post",
+    "title": "Deleting a post",
+    "content": "You can delete your own posts by clicking the ‘Delete post.’ link underneath a post. Click the ‘Ok’ button on the pop-up window to confirm your action. ",
+    "url": "/docs/getting_started/edit_post/#deleting-a-post",
+    "relUrl": "/docs/getting_started/edit_post/#deleting-a-post"
+  },"17": {
+    "doc": "User guide",
+    "title": "User guide",
+    "content": " ",
+    "url": "/docs/getting_started/index/",
+    "relUrl": "/docs/getting_started/index/"
+  },"18": {
+    "doc": "Post Moderation",
+    "title": "Post Moderation",
+    "content": ". | Overview | Creating a review | Deleting a review | . Cyhoeddwn is based around a community moderation system, where the community is responsible for deciding what content is set to be displayed. ",
+    "url": "/docs/getting_started/moderation/",
+    "relUrl": "/docs/getting_started/moderation/"
+  },"19": {
+    "doc": "Post Moderation",
+    "title": "Overview",
+    "content": "Each post contains zero, one, or many reviews. A review contains some free text (up to 500 characters) to allow for appraisal or commentary on a post along with a boolean marking if the post is approved or not. Each time a post receives an update (either an edit of the content, or the addition or removal of a review), the system determines if the post should be displayed or not. This follows the following basic logic: . The post is set to display if both of the following conditions are met: the post has at least three reviews and the post has a simple majority (&gt; 50%) of positive reviews (compared to negative ones). You’ll get an email notification when your post has been approved, so no need to keep refreshing your post’s page! . ",
+    "url": "/docs/getting_started/moderation/#overview",
+    "relUrl": "/docs/getting_started/moderation/#overview"
+  },"20": {
+    "doc": "Post Moderation",
+    "title": "Creating a review",
+    "content": "To create a review on a post, you must be logged in as a user that is not the post’s author. Start by clicking on the ‘X review(s)’ link under the post (where X is a number). This will bring up the post review view, click the ‘Create review’ button, and compose your review in the box provided. Tick the checkbox if you would like to mark your review as ‘Approved’, leave it unchecked if not. . ",
+    "url": "/docs/getting_started/moderation/#creating-a-review",
+    "relUrl": "/docs/getting_started/moderation/#creating-a-review"
+  },"21": {
+    "doc": "Post Moderation",
+    "title": "Deleting a review",
+    "content": "Navigate to the post’s review page and click the ‘Delete review.’ link, you will be asked to confirm your action. ",
+    "url": "/docs/getting_started/moderation/#deleting-a-review",
+    "relUrl": "/docs/getting_started/moderation/#deleting-a-review"
+  },"22": {
+    "doc": "Creating a post",
+    "title": "Creating a post",
+    "content": ". | Text only | Post with image | . On cyhoeddwn, you can create either a text-based post, or an image-based post with some free text. When displayed, image-based posts are shown with their media as large as possible with their free-text written beneath, whereas text-based posts will appear as an enlarged memo/index card. Both types of post will be explained here. ",
+    "url": "/docs/getting_started/new_post/",
+    "relUrl": "/docs/getting_started/new_post/"
+  },"23": {
+    "doc": "Creating a post",
+    "title": "Text only",
+    "content": "Prerequisites: Text for something you’d like to share, subject to: . | Must be less than 140 characters | Must follow the community guidelines | . From the homepage, compose a new post by typing in the Content box. When ready click post! . ",
+    "url": "/docs/getting_started/new_post/#text-only",
+    "relUrl": "/docs/getting_started/new_post/#text-only"
+  },"24": {
+    "doc": "Creating a post",
+    "title": "Post with image",
+    "content": "Prerequisites: An image with your desired content, subject to the following: . | Must be in either jpeg, jpg, gif, or png format | Must be no larger than 5MB | Must be in landscape format | Must be no fewer than 500 pixels in height, and 1000 in width | Must follow the community guidelines | . From the homepage, compose a new post by using the Content/Image section of the page. When ready, click ‘Post’! . ",
+    "url": "/docs/getting_started/new_post/#post-with-image",
+    "relUrl": "/docs/getting_started/new_post/#post-with-image"
+  },"25": {
+    "doc": "Signing up",
+    "title": "Signing up",
+    "content": "You’ll need to navigate to the home page for your local deployment of cyhoeddwn. It should look something like cyhoeddwn.yourdomain.com. Once you’re there, you should see something like that shown below: . Click on the ‘Create an account button’. On the page that loads, enter your: name, email, and password (you’ll need to do this twice). Click ‘Create my account’. You’ll be prompted to check your emails, look for an email with the subject ‘Account activation’. Remember to check your junk/spam folder! Once you’ve found this email, click the link with text ‘Activate’. Your web browser will open to your user page, your account is now ready to use! . ",
+    "url": "/docs/getting_started/new_user/",
+    "relUrl": "/docs/getting_started/new_user/"
+  },"26": {
+    "doc": "Forgotten password",
+    "title": "Forgotten password",
+    "content": "You’ll need to navigate to the home page for your local deployment of cyhoeddwn. It should look something like cyhoeddwn.yourdomain.com. Once you’re there, you should see something like that shown below: . Click on the ‘Log in’ button. Click on the link with text ‘Forgotten your password? Click here to reset it.’. Enter your email in the box on the page that loads, click ‘Submit password reset’. You’ll be prompted to check your emails, look for an email with the subject ‘Account activation’. Remember to check your junk/spam folder! Once you’ve found this email, click the link with text ‘Reset password’. Your web browser will open to a page requesting you to enter a new password, you should enter this twice and click ‘Update password’. You’ll be redirected to your user page, with confirmation that you have successfully reset your password, you’re now ready to use cyhoeddwn again! . ",
+    "url": "/docs/getting_started/password_reset/",
+    "relUrl": "/docs/getting_started/password_reset/"
+  },"27": {
+    "doc": "Logging in",
+    "title": "Logging in",
+    "content": "You’ll need to navigate to the home page for your local deployment of cyhoeddwn. It should look something like cyhoeddwn.yourdomain.com. Once you’re there, you should see something like that shown below: . Click on the ‘Log in’ button. Enter your email address and password into the boxes, you can optionally check the ‘Remember me on this device’ checkbox if you’d like to remain logged in after you close your browser or turn off your device. Click ‘Log in’, you’ll be redirected to your user page. ",
+    "url": "/docs/getting_started/sign_in/",
+    "relUrl": "/docs/getting_started/sign_in/"
+  },"28": {
+    "doc": "Logging out",
+    "title": "Logging out",
+    "content": "If you are currently logged in, you should see a user icon at the right of the top black bar of the website, click this. This is the user dropdown. Click ‘Log out’. You will be returned to the welcome page. . ",
+    "url": "/docs/getting_started/sign_out/",
+    "relUrl": "/docs/getting_started/sign_out/"
+  },"29": {
+    "doc": "Talk pages",
+    "title": "Talk pages",
+    "content": ". | Overview | Posting on a talk page | . ",
+    "url": "/docs/getting_started/talk/",
+    "relUrl": "/docs/getting_started/talk/"
+  },"30": {
+    "doc": "Talk pages",
+    "title": "Overview",
+    "content": "A user’s talk page is the way you can get in touch with other users on cyhoeddwn without exchanging email addresses. When you leave a message on a user’s talk page, they’ll get an email notification with your message embedded. ",
+    "url": "/docs/getting_started/talk/#overview",
+    "relUrl": "/docs/getting_started/talk/#overview"
+  },"31": {
+    "doc": "Talk pages",
+    "title": "Posting on a talk page",
+    "content": "You can find a user’s talk page by visiting their profile and clicking on the ‘View talk page’ button. On the page that loads, you will be able to leave a comment, as long as that comment is less than 500 characters. Posts are listed in reverse-chronological order, with the newest posts located at the top. ",
+    "url": "/docs/getting_started/talk/#posting-on-a-talk-page",
+    "relUrl": "/docs/getting_started/talk/#posting-on-a-talk-page"
+  },"32": {
+    "doc": "Watching users",
+    "title": "Watching users",
+    "content": ". | Overview | Watch a user | . ",
+    "url": "/docs/getting_started/watch/",
+    "relUrl": "/docs/getting_started/watch/"
+  },"33": {
+    "doc": "Watching users",
+    "title": "Overview",
+    "content": "When you watch a user, you’ll get email notifications each time they make a new post, or someone posts on their talk page. You can watch as many users as you like, or none at all! . ",
+    "url": "/docs/getting_started/watch/#overview",
+    "relUrl": "/docs/getting_started/watch/#overview"
+  },"34": {
+    "doc": "Watching users",
+    "title": "Watch a user",
+    "content": "You can watch a user by clicking on the ‘Watch’ button on the user’s profile page. To stop watching a user, click ‘Unwatch’. ",
+    "url": "/docs/getting_started/watch/#watch-a-user",
+    "relUrl": "/docs/getting_started/watch/#watch-a-user"
+  },"35": {
+    "doc": "Hateful Content",
+    "title": "Hateful Content",
+    "content": "Posts made to cyhoeddwn that contain hateful content are not allowed. It is ultimately at the discretion of the community to decide what action should be taken against content or an author that posts hateful content onto the system. As a general rule of thumb, content containing any of the following is not allowed, but the community may decide to include other topics which they feel are likely to be offensive. Content that is not allowed (based on the Equality Act 2010) includes: . | bullying | sexual harassment | racial harassment (racism) | harassment on grounds of sexual orientation (homophobia, biphobia, etc.) | harassment on grounds of religion | political harassment, or harassment on the grounds of trade union membership | harassment on the grounds of disability | harassment on the grounds of age (ageism) | harassment on the grounds of gender reassignment (transphobia) | . Content that promotes, incites, or justifies exclusion, discrimination or violence against any of these groups is not just morally reprehensible, but will result in disciplinary action being taken against your cyhoeddwn account. ",
+    "url": "/docs/guidelines/hateful_content/",
+    "relUrl": "/docs/guidelines/hateful_content/"
+  },"36": {
+    "doc": "Community guidelines",
+    "title": "Community guidelines",
+    "content": " ",
+    "url": "/docs/guidelines/index/",
+    "relUrl": "/docs/guidelines/index/"
+  },"37": {
+    "doc": "Community guidelines",
+    "title": "Overview",
+    "content": "In order to facilitate use of cyhoeddwn, the following community guidelines are given. It is expected that communities will decide what guidelines are and are not relevant for them, and it is expected that these guidelines will change over time. ",
+    "url": "/docs/guidelines/index/#overview",
+    "relUrl": "/docs/guidelines/index/#overview"
+  },"38": {
+    "doc": "Community guidelines",
+    "title": "Mission statement",
+    "content": "cyhoeddwn is a platform for communities to share content. Those sharing content do so in order to provide others with the possibility of doing something interesting and exciting, as a means of providing opportunities for work or education, to find like-minded individuals, and in general, to bring a community closer. Those seeking such opportunities are able to view these opportunities either through situated displays in the community, or through the cyhoeddwn web app. ",
+    "url": "/docs/guidelines/index/#mission-statement",
+    "relUrl": "/docs/guidelines/index/#mission-statement"
+  },"39": {
+    "doc": "Privacy policy",
+    "title": "Privacy policy",
+    "content": ". | Notes | Contact details | What data do we collect? | How will we use your data? | How will we store your data? | What are your data protection rights? | Cookies | How do we use cookies? | How to manage cookies | Privacy policies of other websites | Changes to our privacy policy | How to contact the appropriate authority | . ",
+    "url": "/docs/guidelines/privacy_policy/",
+    "relUrl": "/docs/guidelines/privacy_policy/"
+  },"40": {
+    "doc": "Privacy policy",
+    "title": "Notes",
+    "content": "The following is adopted from the template provided by the Horizon 2020 Framework Programme . Replace the following with the contact details (name, email, address, phone number) of an appointed cyhoeddwn administrator, use the address of the place in which cyhoeddwn is based (i.e. the place you have your meetings) . ",
+    "url": "/docs/guidelines/privacy_policy/#notes",
+    "relUrl": "/docs/guidelines/privacy_policy/#notes"
+  },"41": {
+    "doc": "Privacy policy",
+    "title": "Contact details",
+    "content": "cyhoeddwn and cyhoeddwn-guide is software deployed by [Wigan Community Council] to residents of [Wigan]. This privacy policy explains how [Wigan Community Council] use the personal data collected from you when you interact with cyhoeddwn and cyhoeddwn-guide. The words ‘we’, ‘us’ and ‘our’ refer to [Wigan Community Council] as an entity. [Wigan Community Council: c/o Some Administrator, 62 West Wallaby Street, Wigan, Lancashire] . ",
+    "url": "/docs/guidelines/privacy_policy/#contact-details",
+    "relUrl": "/docs/guidelines/privacy_policy/#contact-details"
+  },"42": {
+    "doc": "Privacy policy",
+    "title": "What data do we collect?",
+    "content": "On cyhoeddwn we collect the following data: . | Your name or alias that you choose to use | Your email address | Posts and images that you submit through the application | An optional biography | . On cyhoeddwn-guide we collect no data, data submitted to cyhoeddwn-guide passes through GitHub. ",
+    "url": "/docs/guidelines/privacy_policy/#what-data-do-we-collect",
+    "relUrl": "/docs/guidelines/privacy_policy/#what-data-do-we-collect"
+  },"43": {
+    "doc": "Privacy policy",
+    "title": "How will we use your data?",
+    "content": "The only data we collect is collected directly from you, with your consent. We use your data to: . | Manage your profile on cyhoeddwn | Show your name/alias and image next to posts created by you | Show other cyhoeddwn users who they are interacting with | Send you notification emails | . When you submit data to other sites, such as when submitting issues through GitLab or posting on a GitHub Discussions page, you do so by the conditions of their respective privacy policies. ",
+    "url": "/docs/guidelines/privacy_policy/#how-will-we-use-your-data",
+    "relUrl": "/docs/guidelines/privacy_policy/#how-will-we-use-your-data"
+  },"44": {
+    "doc": "Privacy policy",
+    "title": "How will we store your data?",
+    "content": "We store textual data on a [insert name of provider] PostgreSQL database, media data is stored in an AWS S3 bucket. We will store your data until your account is deleted (which will delete all the information we store about you), or [Wigan County Council] suspends the cyhoeddwn service, which will also delete all your data in the same way. ",
+    "url": "/docs/guidelines/privacy_policy/#how-will-we-store-your-data",
+    "relUrl": "/docs/guidelines/privacy_policy/#how-will-we-store-your-data"
+  },"45": {
+    "doc": "Privacy policy",
+    "title": "What are your data protection rights?",
+    "content": "[Wigan Community Council] would like to make sure you are fully aware of all your data protection rights. Every user is entitled to the following: . | The right to access — You have the right to request [Wigan Community Council] for copies of your personal data. We may charge you a small fee for this service. | The right to rectification — You have the right to request that [Wigan Community Council] correct any information you believe is inaccurate. You also have the right to request Wigan Community Council to complete the information you believe is incomplete. | The right to erasure — You have the right to request that [Wigan Community Council] erase your personal data, under certain conditions. | The right to restrict processing — You have the right to request that [Wigan Community Council] restrict the processing of your personal data, under certain conditions. | The right to object to processing — You have the right to object to [Wigan Community Council]’s processing of your personal data, under certain conditions. | The right to data portability — You have the right to request that [Wigan Community Council] transfer the data that we have collected to another organization, or directly to you, under certain conditions. | . If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at: . | Our email: [insert email] | Call us at: [insert phone number] | Or write to us: [62 West Wallaby Street, Wigan, Lancashire] | . ",
+    "url": "/docs/guidelines/privacy_policy/#what-are-your-data-protection-rights",
+    "relUrl": "/docs/guidelines/privacy_policy/#what-are-your-data-protection-rights"
+  },"46": {
+    "doc": "Privacy policy",
+    "title": "Cookies",
+    "content": "Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology. For further information, visit allaboutcookies.org. ",
+    "url": "/docs/guidelines/privacy_policy/#cookies",
+    "relUrl": "/docs/guidelines/privacy_policy/#cookies"
+  },"47": {
+    "doc": "Privacy policy",
+    "title": "How do we use cookies?",
+    "content": "[Wigan Community Council] use functional cookies on cyhoeddwn to keep you signed in to your account. We do not use any other cookies on cyhoeddwn or cyhoeddwn-guide. ",
+    "url": "/docs/guidelines/privacy_policy/#how-do-we-use-cookies",
+    "relUrl": "/docs/guidelines/privacy_policy/#how-do-we-use-cookies"
+  },"48": {
+    "doc": "Privacy policy",
+    "title": "How to manage cookies",
+    "content": "You can set your browser not to accept cookies, and the above website tells you how to remove cookies from your browser. However, in a few cases, some of our website features may not function as a result. ",
+    "url": "/docs/guidelines/privacy_policy/#how-to-manage-cookies",
+    "relUrl": "/docs/guidelines/privacy_policy/#how-to-manage-cookies"
+  },"49": {
+    "doc": "Privacy policy",
+    "title": "Privacy policies of other websites",
+    "content": "cyhoeddwn and cyhoeddwn-guide contain links to other websites. Our privacy policy applies only to our websites, so if you click on a link to another website, you should read their privacy policy. ",
+    "url": "/docs/guidelines/privacy_policy/#privacy-policies-of-other-websites",
+    "relUrl": "/docs/guidelines/privacy_policy/#privacy-policies-of-other-websites"
+  },"50": {
+    "doc": "Privacy policy",
+    "title": "Changes to our privacy policy",
+    "content": "[Wigan Community Council] keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on [19 September 2021]. ",
+    "url": "/docs/guidelines/privacy_policy/#changes-to-our-privacy-policy",
+    "relUrl": "/docs/guidelines/privacy_policy/#changes-to-our-privacy-policy"
+  },"51": {
+    "doc": "Privacy policy",
+    "title": "How to contact the appropriate authority",
+    "content": "Should you wish to report a complaint or if you feel that [Wigan Community Council] has not addressed your concern in a satisfactory manner, you may contact the Information Commissioner’s Office. ",
+    "url": "/docs/guidelines/privacy_policy/#how-to-contact-the-appropriate-authority",
+    "relUrl": "/docs/guidelines/privacy_policy/#how-to-contact-the-appropriate-authority"
+  },"52": {
+    "doc": "Disciplinary procedures",
+    "title": "Disciplinary procedures",
+    "content": " ",
+    "url": "/docs/guidelines/violating_tos/",
+    "relUrl": "/docs/guidelines/violating_tos/"
+  },"53": {
+    "doc": "Disciplinary procedures",
+    "title": "First offence",
+    "content": "Once you have identified that someone has violated the community guidelines, they will have committed their first offence. ",
+    "url": "/docs/guidelines/violating_tos/#first-offence",
+    "relUrl": "/docs/guidelines/violating_tos/#first-offence"
+  }
+}
